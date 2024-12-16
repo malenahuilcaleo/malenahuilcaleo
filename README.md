@@ -2,6 +2,10 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me*** 
+
+I am a computer science student
+- 🌱 I’m currently learning ...
+  
 ### Here's my github README stats:
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=malenahuilcaleo&show_icons=true&theme=radical) 
