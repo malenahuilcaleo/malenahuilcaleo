@@ -8,5 +8,4 @@ I am a computer science student
   
 ### Here's my github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=malenahuilcaleo&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malenahuilcaleo&theme=radical)](https://git.io/streak-stats) 
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=malenahuilcaleo&show_icons=true&theme=radical)
